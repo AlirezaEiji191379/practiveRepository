@@ -5,8 +5,6 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-	    Scanner inpuit=new Scanner(System.in);
-        String a=inpuit.nextLine();
-        System.out.println(a);
+	    System.out.println("Alireza Eij is the man of focus!!");
     }
 }
